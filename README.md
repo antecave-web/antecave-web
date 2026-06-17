@@ -1,16 +1,33 @@
-## Hi there 👋
+# Andreas Lidström
 
-<!--
-**antecave-web/antecave-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cognitive neuroscientist and analyst with experience in:
 
-Here are some ideas to get you started:
+- Behavioral data analysis
+- MATLAB and Python
+- Longitudinal research
+- Public health and cognitive aging
+- Data visualization and reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects 🔭
+
+### Behavioral Data Analysis
+Short description...
+
+### MATLAB Tools
+Short description...
+
+### Python Applications
+Short description...
+
+## Publications
+
+ResearchGate:
+https://www.researchgate.net/profile/Andreas-Lidstroem/research
+
+## Contact 📫
+
+E-mail:
+antecave@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/andreas-lidstr%C3%B6m-53148074
