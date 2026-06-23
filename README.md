@@ -19,23 +19,6 @@ My work combines quantitative analysis, scientific rigor, and practical problem-
 
 ## Portfolio Projects
 
-### Longitudinal Dynamic Causal Modeling Project
-
-**Repository:**
-https://github.com/antecave-web/Longitudinal_Dynamic_Causal_Modeling_project
-
-Developed analysis pipelines for modeling longitudinal changes in brain activity during cognitive training in school children. The project focused on tracking neural adaptation over time and required extensive preprocessing, statistical analysis, and reproducible workflows.
-
-**Skills demonstrated:**
-
-* MATLAB
-* Longitudinal data analysis
-* Neuroimaging research
-* Pipeline development
-* Scientific reporting
-
----
-
 ### Primary School Programming and Cognitive Training Project
 
 **Repository:**
@@ -53,21 +36,20 @@ Pilot research project investigating whether digital cognitive training could im
 
 ---
 
-### Job Search API Filtering and Ranking Project
+### Longitudinal Dynamic Causal Modeling Project
 
 **Repository:**
-https://github.com/antecave-web/JobSearch-API_Filtering_and_Ranking_Project
+https://github.com/antecave-web/Longitudinal_Dynamic_Causal_Modeling_project
 
-Python-based project that automatically downloads job advertisements, extracts relevant information, scores opportunities using keyword matching, and ranks postings according to user-defined criteria.
+Developed analysis pipelines for modeling longitudinal changes in brain activity during cognitive training in school children. The project focused on tracking neural adaptation over time and required extensive preprocessing, statistical analysis, and reproducible workflows.
 
 **Skills demonstrated:**
 
-* Python
-* API integration
-* Data processing
-* Automation
-* Information retrieval
-* Ranking algorithms
+* MATLAB
+* Longitudinal data analysis
+* Neuroimaging research
+* Pipeline development
+* Scientific reporting
 
 ---
 
@@ -86,6 +68,24 @@ A complete European Research Council proposal demonstrating large-scale project 
 * Ethics and compliance
 * Budgeting
 * Scientific communication
+
+---
+
+### Job Search API Filtering and Ranking Project
+
+**Repository:**
+https://github.com/antecave-web/JobSearch-API_Filtering_and_Ranking_Project
+
+Python-based project that automatically downloads job advertisements, extracts relevant information, scores opportunities using keyword matching, and ranks postings according to user-defined criteria.
+
+**Skills demonstrated:**
+
+* Python
+* API integration
+* Data processing
+* Automation
+* Information retrieval
+* Ranking algorithms
 
 ---
 
