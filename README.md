@@ -92,7 +92,7 @@ Python-based project that automatically downloads job advertisements, extracts r
 ### Ph.D. Thesis
 
 **Repository:**
-https://github.com/antecave-web/Thesis
+https://github.com/antecave-web/Programming_Learning_and_the_Brain_PhD_Thesis
 
 Doctoral thesis examining brain activity during programming learning using functional magnetic resonance imaging (fMRI). The work combines neuroscience, learning theory, and quantitative analysis to investigate how programming skills develop.
 
