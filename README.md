@@ -106,7 +106,7 @@ Doctoral thesis examining brain activity during programming learning using funct
 
 ---
 
-# Star Trek: Ascendancy Homebrew
+### Star Trek: Ascendancy Homebrew
 *Game systems redesign and balance analysis*
 
 **Repository:**
