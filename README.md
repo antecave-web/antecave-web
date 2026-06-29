@@ -115,9 +115,10 @@ https://github.com/antecave-web/Star-Trek-Ascendancy-Homebrew
 Designed and documented two compatible redesigns for the Board Game *Star Trek: Ascendancy*:
 
 Galactic Crisis Mode - a hybrid game mode addressing pacing, alliance formation, and late-game player interaction.
+
 Playable Borg - a complete redesign of the Borg faction emphasizing asymmetric gameplay, strategic resource allocation, and minimal-rule complexity.
 
-**analytical/Design skills demonstrated:**
+**Analytical/Design skills demonstrated:**
 
 * Systems analysis
 * Game mechanics and balance design
