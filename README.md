@@ -106,6 +106,29 @@ Doctoral thesis examining brain activity during programming learning using funct
 
 ---
 
+# Star Trek: Ascendancy Homebrew
+*Game systems redesign and balance analysis*
+
+**Repository:**
+https://github.com/antecave-web/Star-Trek-Ascendancy-Homebrew
+
+Designed and documented two compatible redesigns for the Board Game *Star Trek: Ascendancy*:
+
+Galactic Crisis Mode - a hybrid game mode addressing pacing, alliance formation, and late-game player interaction.
+Playable Borg - a complete redesign of the Borg faction emphasizing asymmetric gameplay, strategic resource allocation, and minimal-rule complexity.
+
+**analytical/Design skills demonstrated:**
+
+* Systems analysis
+* Game mechanics and balance design
+* Incentive design
+* Rule simplification and complexity management
+* Scenario and framework development
+* Documentation and technical writing
+* Iterative design and playtest planning
+
+---
+
 ## Publications and Research Profiles
 
 ResearchGate:
